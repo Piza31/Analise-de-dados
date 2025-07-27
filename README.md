@@ -55,12 +55,13 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 2. Instale as bibliotecas necessárias:
    ```bash
-pip install pandas matplotlib seaborn
+   pip install pandas matplotlib seaborn
 
 3. Execute o arquivo Python:
    ```bash
-python AnaliseDados.py
+   python AnaliseDados.py
 
 ## 📌  Autor
 Gabriel Dias Piza
+
 Estudante de Análise de Dados pela EBAC
