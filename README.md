@@ -60,12 +60,15 @@ Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA
    cd ecommerce-analise
    
 2. Instale as bibliotecas necessárias:
+   ```bash
    pip install -r requirements.txt
    
 4. Execute o aplicativo Dash:
+   ```bash
    python app.py
 
 5. O aplicativo estará disponível no navegador em:
+   ```bash
    http://127.0.0.1:8050
 
 ## 📌 Autor
