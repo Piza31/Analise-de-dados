@@ -56,7 +56,7 @@ Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/ecommerce-analise.git
+   git clone https://github.com/Piza31/Analise-de-dados.git
    cd ecommerce-analise
    
 2. Instale as bibliotecas necessárias:
