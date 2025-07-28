@@ -1,0 +1,16 @@
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.8.4
+plotly==5.22.0
+dash==2.16.1
+
+## ✅ Como usar:
+1. Crie o arquivo:
+
+No seu editor (ex: PyCharm ou VSCode), clique com o botão direito > New File > digite requirements.txt
+
+2. Cole esse conteúdo.
+
+3. Instale os pacotes no terminal com:
+  ```bash
+pip install -r requirements.txt
